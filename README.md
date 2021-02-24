@@ -1,7 +1,7 @@
 # Navigate
-Navigation demo game
+Navigation demo game - CLI UI
 
-Java8 CUI based game for a console / command prompt.
+Java8 CLI based game for a console / command prompt.
 
 try on install dir: java -jar Navigate.jar
 
